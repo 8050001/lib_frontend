@@ -1,0 +1,37 @@
+.root {
+  background-image: linear-gradient(to right, #177414 10%, #d3d01c 30%, #c01d7c 50%, #3e5de7 70%, #e63327);
+  /*  background-color: #177414; */
+  padding: 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 30px;
+}
+
+.inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* .logo {
+  background-color: rgb(36, 3, 63);
+  color: #fff;
+  font-weight: 700;
+  line-height: 35px;
+  text-transform: uppercase;
+  letter-spacing: 0.15px;
+  border-radius: 5px;
+  padding: 0 10px;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #4361ee;
+  }
+} */
+.buttons button {
+  margin-left: 10px;
+}
+
+.buttons a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=Header.module.css.map */
